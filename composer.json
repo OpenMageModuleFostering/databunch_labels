@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Databunch_Labels",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Product labels module",
+    "authors": [
+    {
+        "name": "DataBunchRussia",
+        "email": "info@databunch.ru"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
