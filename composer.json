@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Databunch_Labels",
+    "name": "OpenMageModuleFostering\/Databunch_Labels",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
-    "description": "This extension enables the custom labels for your products. The lables are implemented as HTML/CSS not as images, which improves your site's loading speed. Our extension is entirely compatible with the new Responsive Theme.",
+    "description": "This extension enables the custom labels for your products. The lables are implemented as HTML\/CSS not as images, which improves your site's loading speed. Our extension is entirely compatible with the new Responsive Theme.",
     "authors": [
-    {
-        "name": "DataBunchRussia",
-        "email": "info@databunch.ru"
-    }
-],
+        {
+            "name": "DataBunchRussia",
+            "email": "info@databunch.ru"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
