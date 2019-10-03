@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension enables the custom labels for your products. The lables are implemented as HTML/CSS not as images, which improves your site's loading speed. Our extension is entirely compatible with the new Responsive Theme.
